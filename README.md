@@ -38,7 +38,7 @@ habilidades = {
 
 ## 📫 Como me encontrar
 
-- 💼 LinkedIn: [En breve]
+- 💼 LinkedIn: [Em breve]
 - 📧 Email: [pedrocoelhotorres@outlook.com]
 - 🌐 Portfolio: [Em breve]
 
