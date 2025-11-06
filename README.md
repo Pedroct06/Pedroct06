@@ -50,6 +50,4 @@ habilidades = {
 
 ---
 
-⭐️ *"A inteligência artificial é o novo motor da inovação"*
-
 💡 Sempre aberto a colaborações e novos desafios!
