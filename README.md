@@ -44,10 +44,12 @@ habilidades = {
 
 ## 📊 GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Pedroct06show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Pedroct06&show_icons=true&theme=radical&hide_border=true)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroct06&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroct06&layout=compact&theme=radical&hide_border=true&langs_count=6)
 
 ---
+
+⭐️ *"A inteligência artificial é o novo motor da inovação"*
 
 💡 Sempre aberto a colaborações e novos desafios!
