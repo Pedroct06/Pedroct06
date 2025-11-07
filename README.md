@@ -43,11 +43,11 @@ habilidades = {
 - 🌐 Portfolio: [Em breve]
 
 ## 📊 GitHub Stats
-
+<div align="center">
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Pedroct06&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroct06&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=token-github,projetos-pra-salvar)
-
+< a src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroct06&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=token-github,projetos-pra-salvar">
+</div
 ---
 
 💡 Sempre aberto a colaborações e novos desafios!
