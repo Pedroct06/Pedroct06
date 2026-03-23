@@ -13,7 +13,7 @@ Sou estudante de **Ciência da Computação** (3º período), apaixonado por tec
 ```python
 habilidades = {
     "linguagens": ["Java", "Python"],
-    "estudando": ["Estrutura de Dados", "Inteligência Artificial"],
+    "estudando": ["Ciência de Dados", "Inteligência Artificial"],
     "interesses": ["IA", "Machine Learning", "Ciência de Dados"]
 }
 ```
@@ -24,13 +24,13 @@ habilidades = {
 
 ## 🌱 Atualmente aprendendo
 
-- 📚 Estrutura de Dados
+- 📚 Ciência e tratamento de Dados
 - 🤖 Inteligência Artificial
 - 💻 Aprimorando habilidades em Java e Python
 
 ## 🎯 Objetivos
 
-- Dominar Estrutura de Dados e Algoritmos
+- Aprofundar conhecimentos em Ciência de Dados
 - Aprofundar conhecimentos em Inteligência Artificial
 - Explorar áreas de Machine Learning e Ciência de Dados
 - Desenvolver projetos práticos aplicando IA
