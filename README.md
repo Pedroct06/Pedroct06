@@ -6,13 +6,13 @@
 
 ## 🎓 Sobre mim
 
-Sou estudante de **Ciência da Computação** (3º período), apaixonado por tecnologia e em constante aprendizado. Atualmente, estou explorando o fascinante mundo da **Inteligência Artificial** e construindo uma base sólida em programação.
+Sou estudante de **Ciência da Computação** (4º período), apaixonado por tecnologia e em constante aprendizado. Atualmente, estou explorando o fascinante mundo da **Inteligência Artificial** e construindo uma base sólida em programação.
 
 ## 💻 Tecnologias e Ferramentas
 
 ```python
 habilidades = {
-    "linguagens": ["Java", "Python"],
+    "linguagens": ["Java", "Python", "SQL"],
     "estudando": ["Ciência de Dados", "Inteligência Artificial"],
     "interesses": ["IA", "Machine Learning", "Ciência de Dados"]
 }
