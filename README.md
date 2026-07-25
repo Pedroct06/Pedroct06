@@ -13,7 +13,7 @@ Sou estudante de **Ciência da Computação** (4º período), apaixonado por tec
 ```python
 habilidades = {
     "linguagens": ["Java", "Python", "SQL"],
-    "estudando": ["Ciência de Dados", "Inteligência Artificial"],
+    "estudando": ["Ciência de Dados", "Inteligência Artificial", "LLMs"],
     "interesses": ["IA", "Machine Learning", "Ciência de Dados"]
 }
 ```
